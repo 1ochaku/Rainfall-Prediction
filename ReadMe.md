@@ -4,6 +4,7 @@ This project is a simple machine learning model to predict whether it will rain 
 
 ## Files
 
+- `data/Rainfall.csv`: The training dataset file.
 - `models/rainfall_prediction_model.pkl`: The trained model file.
 - `src/Rainfall_Predictor.ipynb`: Script used to train the model.
 - `requirements.txt`: Python dependencies.
